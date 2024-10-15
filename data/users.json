@@ -1,0 +1,68 @@
+[
+  {
+    "full_name": "Kenny Admin",
+    "email": "admin@gmail.com",
+    "password": "$2a$10$A17TodYqT4DUE2DOBW//pO1sySpZyetJ.kSg42b.cO4BAXMcPr3N2",
+    "phone_number": "0123456789",
+    "role": 1,
+    "profile_image_url": "https://example.com/images/user1.jpg",
+    "google_id": "google12345",
+    "created_at": "2024-04-01T10:00:00Z",
+    "updated_at": "2024-04-01T10:00:00Z"
+  },
+  {
+    "full_name": "Kenny Truong",
+    "email": "client@gmail.com",
+    "password": "$2a$10$A17TodYqT4DUE2DOBW//pO1sySpZyetJ.kSg42b.cO4BAXMcPr3N2",
+    "phone_number": "0123456789",
+    "role": 0,
+    "profile_image_url": "https://example.com/images/user2.jpg",
+    "google_id": "google67890",
+    "created_at": "2024-05-15T12:30:00Z",
+    "updated_at": "2024-05-15T12:30:00Z"
+  },
+  {
+    "full_name": "David Le",
+    "email": "davidle@example.com",
+    "password": "$2a$10$A17TodYqT4DUE2DOBW//pO1sySpZyetJ.kSg42b.cO4BAXMcPr3N2",
+    "phone_number": "0923456789",
+    "role": 0,
+    "profile_image_url": "https://example.com/images/user3.jpg",
+    "google_id": "google54321",
+    "created_at": "2024-06-20T08:45:00Z",
+    "updated_at": "2024-06-20T08:45:00Z"
+  },
+  {
+    "full_name": "Emily Pham",
+    "email": "emilypham@example.com",
+    "password": "$2a$10$A17TodYqT4DUE2DOBW//pO1sySpZyetJ.kSg42b.cO4BAXMcPr3N2",
+    "phone_number": "0935678901",
+    "role": 0,
+    "profile_image_url": "https://example.com/images/user4.jpg",
+    "google_id": "google78901",
+    "created_at": "2024-07-10T14:20:00Z",
+    "updated_at": "2024-07-10T14:20:00Z"
+  },
+  {
+    "full_name": "Michael Dang",
+    "email": "michaeldang@example.com",
+    "password": "$2a$10$A17TodYqT4DUE2DOBW//pO1sySpZyetJ.kSg42b.cO4BAXMcPr3N2",
+    "phone_number": "0946789012",
+    "role": 0,
+    "profile_image_url": "https://example.com/images/user5.jpg",
+    "google_id": "google89012",
+    "created_at": "2024-08-05T16:35:00Z",
+    "updated_at": "2024-08-05T16:35:00Z"
+  },
+  {
+    "full_name": "Sophia Nguyen",
+    "email": "sophianguyen@example.com",
+    "password": "$2a$10$A17TodYqT4DUE2DOBW//pO1sySpZyetJ.kSg42b.cO4BAXMcPr3N2",
+    "phone_number": "0957890123",
+    "role": 0,
+    "profile_image_url": "https://example.com/images/user6.jpg",
+    "google_id": "google90123",
+    "created_at": "2024-09-01T11:15:00Z",
+    "updated_at": "2024-09-01T11:15:00Z"
+  }
+]
