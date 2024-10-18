@@ -20,6 +20,7 @@ app.use(bodyParser.urlencoded({ extended: true, limit: '50mb' }))
 app.use(morgan('tiny'));
 app.use(authJwt());
 app.use('/public/uploads', express.static( __dirname + '/public/uploads'));
+app.use('/uploads', express.static( __dirname + '/uploads'));
 app.use(errorHandler);
 
 const api = process.env.API_URL;

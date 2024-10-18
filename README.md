@@ -17,7 +17,7 @@ Clone the repository and install the necessary dependencies:
 
   ### 🚀 Run the Service
   ```
-  $ nodemon app.js
+   nodemon app.js
   ```
 ## 📚 API Endpoints
 
