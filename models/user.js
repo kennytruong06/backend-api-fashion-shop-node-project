@@ -25,10 +25,6 @@ const userSchema = mongoose.Schema({
         type: String,
         default: ''
     },
-    google_id: {
-        type: String,
-        default: ''
-    },
     created_at: {
         type: Date,
         default: Date.now
@@ -36,6 +32,10 @@ const userSchema = mongoose.Schema({
     updated_at: {
         type: Date,
         default: Date.now
+    },
+    verified_at: {
+        type: Date,
+        default: null
     }
 })
 
